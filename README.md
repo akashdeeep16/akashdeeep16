@@ -51,14 +51,6 @@ Transforming raw data into actionable insights through analytics, interactive da
 - Created interactive reports for host and property performance
 - Enabled location-based and seasonal business insights
 
-## 📚 Currently Learning
-
-- Microsoft Fabric
-- Advanced DAX
-- Azure Data Fundamentals
-- Data Warehousing
-- Machine Learning for Analytics
-
 ## 🌐 Connect with Me
 
 <p align="left">
