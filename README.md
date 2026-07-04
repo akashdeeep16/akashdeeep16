@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akashdeep Singh</h1>
-
 <h3 align="center">
 📊 Data Analyst | Power BI | SQL | Python
 </h3>
-
 <p align="center">
 Transforming data into actionable insights through analytics and interactive dashboards.
 </p>
