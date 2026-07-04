@@ -58,37 +58,6 @@ Turning raw data into meaningful insights through dashboards, analytics, and sto
 - Booking Trends
 - Interactive Filters
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
-
----
 
 ## 📚 Currently Learning
 
@@ -102,17 +71,10 @@ Turning raw data into meaningful insights through dashboards, analytics, and sto
 
 ## 🌐 Connect with Me
 
-[![https://www.linkedin.com/in/akashdeepsingh16/](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+[![www.linkedin.com/in/akashdeepsingh16](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
 
 [![akash16503@gmail.com](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
----
-
-### 💡 Quote
-
-> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
-
----
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
 
