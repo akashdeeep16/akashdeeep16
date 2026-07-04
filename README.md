@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akashdeep Singh</h1>
-<p align="center"><strong>📊 Data Analyst | Power BI | SQL | Python</strong></p>
+<p align="center"><strong>📊 Data Analyst | Power BI | SQL | Excel | Python</strong></p>
 
 ## 🚀 About Me
 
