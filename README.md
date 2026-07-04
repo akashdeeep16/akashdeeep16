@@ -5,8 +5,6 @@
 Transforming raw data into actionable insights through analytics, interactive dashboards, and data-driven storytelling.
 </p>
 
----
-
 ## 🚀 About Me
 
 - 📊 Passionate about Data Analytics & Business Intelligence
@@ -15,8 +13,6 @@ Transforming raw data into actionable insights through analytics, interactive da
 - 🐍 Experienced with **Python** for data cleaning, visualization.
 - 📚 Currently learning **Microsoft Fabric** and advanced Power BI
 - 🎯 Aspiring to build impactful analytics solutions in a leading data-driven organization
-
----
 
 ## 🛠️ Technical Skills
 
@@ -55,21 +51,6 @@ Transforming raw data into actionable insights through analytics, interactive da
 - Created interactive reports for host and property performance
 - Enabled location-based and seasonal business insights
 
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" width="48%" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - Microsoft Fabric
@@ -77,8 +58,6 @@ Transforming raw data into actionable insights through analytics, interactive da
 - Azure Data Fundamentals
 - Data Warehousing
 - Machine Learning for Analytics
-
----
 
 ## 🌐 Connect with Me
 
@@ -91,6 +70,3 @@ Transforming raw data into actionable insights through analytics, interactive da
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-- 📧 **Email:** akash16503@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/akashdeepsingh16
