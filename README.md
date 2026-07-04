@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akashdeep Singh</h1>
 <p align="center"><strong>📊 Data Analyst | Power BI | SQL | Python</strong></p>
-<p align="center">
-Transforming data into actionable insights through analytics and interactive dashboards.
-</p>
+
 ## 🚀 About Me
 
 - 📊 Passionate about Data Analytics & Business Intelligence
