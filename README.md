@@ -12,8 +12,6 @@ Transforming data into actionable insights through analytics and interactive das
 - 🐍 Using Python, Pandas & NumPy for data manipulation
 - 📚 Currently learning Microsoft Fabric
 
----
-
 ## 🛠️ Technical Skills
 
 <p align="center">
