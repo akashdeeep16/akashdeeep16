@@ -1,87 +1,105 @@
 <h1 align="center">Hi 👋, I'm Akashdeep Singh</h1>
-<h3 align="center">📊 Data Analyst | Power BI Developer | SQL | Python | Excel</h3>
+<h3 align="center">📊 Data Analyst | Power BI Developer | SQL | Python</h3>
 
 <p align="center">
-Turning raw data into meaningful insights through dashboards, analytics, and storytelling.
+Transforming raw data into actionable insights through analytics, interactive dashboards, and data-driven storytelling.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 📈 Passionate about Data Analytics & Business Intelligence
-- 📊 Building interactive dashboards using **Power BI**
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 📈 Building interactive dashboards with **Power BI**
 - 🗄️ Skilled in **SQL** for data extraction and analysis
-- 🐍 Using **Python** for data cleaning, visualization & predictive analytics
+- 🐍 Experienced with **Python** for data cleaning, visualization, and predictive analytics
 - 📚 Currently learning **Microsoft Fabric** and advanced Power BI
-- 🎯 Goal: Become a Data Analyst at a product-based or MNC company
+- 🎯 Aspiring to build impactful analytics solutions in a leading data-driven organization
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-#### Data Analysis & Visualization
+### 📊 Data Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+<img src="https://skillicons.dev/icons?i=powerbi" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-#### Programming & Automation
+### 🧹 Data Manipulation & Analysis
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-#### Business Intelligence & Analytics
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 Amazon Sales Dashboard
-- Interactive Power BI dashboard
-- Sales, Profit & Customer Analysis
-- Forecasting & Predictive Analytics
+- Interactive Power BI dashboard for sales, profit, and customer analysis
+- Performed predictive analytics to identify future sales trends
+- Developed dynamic KPIs and interactive visualizations
 
 ### 🏥 Cipla HR Analytics Dashboard
-- Employee Attrition Analysis
-- Department Performance
-- Workforce Insights
-- HR KPI Dashboard
+- HR dashboard for employee attrition and workforce analytics
+- Analyzed employee demographics, performance, and retention metrics
+- Built interactive KPIs for HR decision-making
 
 ### 🏠 Airbnb Performance Dashboard
-- Revenue & Occupancy Analysis
-- Host Performance
-- Booking Trends
-- Interactive Filters
+- Analyzed occupancy, revenue, pricing, and booking trends
+- Created interactive reports for host and property performance
+- Enabled location-based and seasonal business insights
 
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" width="48%" />
+</p>
+
+---
 
 ## 📚 Currently Learning
 
 - Microsoft Fabric
 - Advanced DAX
-- Data Warehousing
 - Azure Data Fundamentals
-- Machine Learning Basics
+- Data Warehousing
+- Machine Learning for Analytics
 
 ---
 
 ## 🌐 Connect with Me
 
-[![www.linkedin.com/in/akashdeepsingh16](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
+<p align="left">
+<a href="https://www.linkedin.com/in/akashdeepsingh16" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![akash16503@gmail.com](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<a href="mailto:akash16503@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-
-⭐ **If you like my work, consider giving a star to my repositories!**
-
+- 📧 **Email:** akash16503@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/akashdeepsingh16
