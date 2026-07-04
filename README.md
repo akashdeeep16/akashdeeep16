@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akashdeep Singh</h1>
 <h3 align="center">📊 Data Analyst | Power BI Developer | SQL | Python</h3>
-
 ## 🚀 About Me
 
 - 📊 Passionate about Data Analytics & Business Intelligence
@@ -29,23 +28,6 @@
 <p>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-## 📂 Featured Projects
-
-### 📊 Amazon Sales Dashboard
-- Interactive Power BI dashboard for sales, profit, and customer analysis
-- Performed predictive analytics to identify future sales trends
-- Developed dynamic KPIs and interactive visualizations
-
-### 🏥 Cipla HR Analytics Dashboard
-- HR dashboard for employee attrition and workforce analytics
-- Analyzed employee demographics, performance, and retention metrics
-- Built interactive KPIs for HR decision-making
-
-### 🏠 Airbnb Performance Dashboard
-- Analyzed occupancy, revenue, pricing, and booking trends
-- Created interactive reports for host and property performance
-- Enabled location-based and seasonal business insights
 
 ## 🌐 Connect with Me
 
